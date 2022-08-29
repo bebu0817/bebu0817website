@@ -1,0 +1,19 @@
+body{
+   background-image: url(love.jpg);
+   background-repeat:no-repeat;
+   background-position:fixed;
+   background-size: cover;
+}
+.cont{
+    margin-top:280px;
+    margin-left:850px;
+}
+.cont:hover{
+    box-shadow:aqua  ;
+    transform: translate(10px,10px);
+    
+}
+
+.wow{
+    margin-left:850px;
+}

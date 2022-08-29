@@ -1,0 +1,25 @@
+body{
+    background-image: url(off.png);
+    background-repeat:no-repeat;
+    background-position:fixed;
+    background-size: cover;
+ }
+
+ .cont p{
+    margin-top:50px;
+    padding: 5%;
+    font-size:22px;
+    background-color: rgba(78, 61, 61, 0.589);
+    color:rgb(149, 249, 0);
+ }
+ .cont{
+   display:flex;
+   margin-left:400px;
+   padding:0%;      
+ }
+ .cont p2{
+    text-decoration: none;
+    margin-left:400px;
+    color:aqua;
+
+}
